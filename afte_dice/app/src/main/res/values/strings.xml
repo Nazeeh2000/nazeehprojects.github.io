@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">Roll</string>
+    <string name="Roll_button_description">Rolls the Dice</string>
+    <string name="casinno_logo">Casinno logo</string>
+    <string name="left_dice_image">left Dice image</string>
+    <string name="right_dice_image">Right dice image</string>
+</resources>
